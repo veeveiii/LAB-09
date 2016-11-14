@@ -51,6 +51,10 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15049906_1138598806260369_728966848_n.png?oh=28fcfbfd5c55b4aa8cbe5b49a9156f38&oe=582BA92F)
+ 
+ <hr>
+ 
 
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
@@ -59,6 +63,9 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
+ ###ทดลองรันโปรแกรมได้ดังนี้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15057924_1138602882926628_548341633_n.png?oh=7cf827d3bccddb015fd670dcc26f6b59&oe=582BD682)
+ <hr>
  
 ####2.5.2.	โดยการใช้ methode FromName 
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน private void Form1_Paint(object sender, PaintEventArgs e) แล้วทดลอง Run โปรแกรม
