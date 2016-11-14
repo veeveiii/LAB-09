@@ -72,16 +72,26 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-5.png">
 </p> 
+ ###ทดลองรันโปรแกรมได้ดังนี้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15058618_1138608166259433_614027133_n.png?oh=8261efb2f3c8de812395687fa09d368b&oe=582BA862)
 
 ####2.5.3. การทดลองย่อย 3  -- การใช้ปากกา
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 </p> 
+ ###ทดลองรันโปรแกรมได้ดังนี้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15045824_1138612046259045_1700990058_n.png?oh=fb8e2e7701643887acae651550083ba7&oe=582CC339)
+ <hr>
+
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
+###ทดลองรันโปรแกรมได้ดังนี้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15057771_1138614232925493_63437757_n.png?oh=f569d2bb3d4732d9e195634e6b1bfa53&oe=582CE0FD)
+ <hr>
+ 
 
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
