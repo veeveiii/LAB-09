@@ -97,12 +97,16 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
 </p> 
-
+###ทดลองรันโปรแกรมได้ดังนี้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15049929_1138622976257952_718985434_n.png?oh=f5f4a036d89cb7ab34af7f5140ad7338&oe=582BDF92)
+ <hr>
 * ใช้ Pen ร่วมกับ HatchBrush  เพื่อสร้างลายเส้นแบบต่างๆ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
 </p> 
- 
+ ###ทดลองรันโปรแกรมได้ดังนี้
+ ![](https://scontent.fbkk1-3.fna.fbcdn.net/v/t34.0-12/15045566_1138622979591285_500245675_n.png?oh=f21a24cee15ac7b6fe54e5a953c9f2f9&oe=582BC8EC)
+ <hr>
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
