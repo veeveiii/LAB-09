@@ -111,3 +111,24 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
+![](https://scontent.fbkk2-3.fna.fbcdn.net/v/t34.0-12/15151075_1141618649291718_1752474070_n.png?oh=e5a5475d7c21c871eb336281d8085a93&oe=5830B9FC)
+
+<hr>
+![](https://scontent.fbkk2-3.fna.fbcdn.net/v/t34.0-12/15134479_1141616752625241_1689031732_n.png?oh=c6fec3a66479da422a0b5d1af15a4e3c&oe=582FAF2B)
+<hr>
+
+![](https://scontent.fbkk2-3.fna.fbcdn.net/v/l/t34.0-12/15087049_1141618645958385_148330524_n.png?oh=bec6ec3e307629d94ad9a2c9a07c268f&oe=582FE7D3)
+<hr>
+
+![](https://scontent.fbkk2-3.fna.fbcdn.net/v/t34.0-12/15128723_1141618642625052_1563667803_n.png?oh=d30065dc8ce4c9ce949e9beeb562bae0&oe=582FB2F7)
+<hr>
+
+![](https://scontent.fbkk2-3.fna.fbcdn.net/v/t34.0-12/15139574_1141618659291717_1087773459_n.png?oh=11130b8c826c5526ed4fdb0452e864ab&oe=582FDFEA)
+<hr>
+
+![](https://scontent.fbkk2-3.fna.fbcdn.net/v/t34.0-12/15128532_1141618652625051_631340012_n.png?oh=68deb7d3016507918b52e686c455c81e&oe=582FC5D4)
+<hr>
+<hr>
+Ailada Samingkaew 57030249 
+<hr>
+<hr>
